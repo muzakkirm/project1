@@ -1,4 +1,4 @@
 #new project
 
-Hello this proj 2 desc
+Hello this proj 2 description
 
